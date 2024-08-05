@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Nandan Ray</h1>
 <h3 align="center">A passionate Backend developer(Node.Js) from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaravi99&label=Profile%20views&color=0e75b6&style=flat" alt="rajaravi99" /> </p>
 
@@ -18,8 +17,7 @@
 
 - 📫 How to reach me **ravinandanray99@gmail.com**
 
-- 📄 Know about my experiences [Working as a backend developer in capgemini(Pune).](Working as a backend developer in capgemini(Pune).)
-
+- 📄 Know about my experiences {Working as a Backend Developer with cloud infrastructure team at Capgemini Technologies (Pune).}
 - ⚡ Fun fact **Love to play football**
 
 <h3 align="left">Connect with me:</h3>
