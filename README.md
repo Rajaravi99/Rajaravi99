@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Nandan Ray</h1>
-<h3 align="center">A passionate Software Engineer from India.</h3>
+<h3 align="center">A passionate Cybersecurity Engineer from INDIA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaravi99&label=Profile%20views&color=0e75b6&style=flat" alt="rajaravi99" /> </p>
 
@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/ravinandanray1" target="blank"><img src="https://img.shields.io/twitter/follow/ravinandanray1?logo=twitter&style=for-the-badge" alt="ravinandanray1" /></a> </p>
 
-- 🔭 I’m currently working on [BlogSite](https://blogsite-r2mj.onrender.com)
+- 🔭 I’m currently working on [BlogSite](https://blogsite-r2mj.onrender.com) and SIEM.
 
-- 🌱 I’m currently learning **Backend Developemnt**
+- 🌱 I’m currently learning **Network Security, Security Opeartions, SIEM, Azure Sentinel, Logic Apps**
 
 - 👨‍💻 All of my projects are available at [https://rajaravi99.github.io/my_portfolio/](https://rajaravi99.github.io/my_portfolio/)
-
-- 💬 Ask me about **C++, DSA, JS, Node.Js, Express.Js, MongoDB, Git and Github, HTML, CSS, Bootstrap, Passport.JS, Websockets(socket.io).**
+- 💬 Ask me about **Azure Senitnel, IBM Qradar, Security log analysis, log analytic rules, SOPs and Playbooks**
+- 💬 You can also ask me about **C++, DSA, JS, Node.Js, Express.Js, MongoDB, Git and Github, HTML, CSS, Bootstrap, Passport.JS, Websockets(socket.io).**
 
 - 📫 How to reach me **ravinandanray99@gmail.com**
 
-- 📄 Know about my experiences {Working as a Backend Developer with cloud infrastructure team at Capgemini Technologies (Pune).}
-- ⚡ Fun fact **Love to play football**
+- 📄 Know about my experiences {Working as a CyberSecurity Eningineer with CSIRT team at Capgemini Technologies (Pune).}
+- ⚡ Fun fact **Love to play football, Badminton and run 5k-Marathons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
