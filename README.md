@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravinandanray1" target="blank"><img src="https://img.shields.io/twitter/follow/ravinandanray1?logo=twitter&style=for-the-badge" alt="ravinandanray1" /></a> </p>
 
-- 🔭 I’m currently working on [BlogSite](https://blogsite-r2mj.onrender.com) and SIEM.
+- 🔭 I’m currently working on [BlogSite](https://blogsite-r2mj.onrender.com) and **SIEM rule development.**
 
 - 🌱 I’m currently learning **Network Security, Security Opeartions, SIEM, Azure Sentinel, Logic Apps**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ravinandanray99@gmail.com**
 
-- 📄 Know about my experiences {Working as a CyberSecurity Eningineer with CSIRT team at Capgemini Technologies (Pune).}
+- 📄 Know about my experiences **Working as a CyberSecurity Eningineer with CSIRT team at Capgemini Technologies (Pune).**
 - ⚡ Fun fact **Love to play football, Badminton and run 5k-Marathons**
 
 <h3 align="left">Connect with me:</h3>
